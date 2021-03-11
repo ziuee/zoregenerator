@@ -4,5 +4,7 @@
 "description": "zore generator",
 "main": "index.js",
 "author": "4Remi",
-"dependencies": {}
+"dependencies": {
+    "discord.js": "11.3.0",
+    "moment": "2.20.1"
 }
