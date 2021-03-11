@@ -5,6 +5,10 @@
 "main": "index.js",
 "author": "4Remi",
 "dependencies": {
-    "discord.js": "11.3.0",
-    "moment": "2.20.1"
+    "async": "^3.1.0",
+    "discord.js": "^11.5.1",
+    "express": "^4.17.1",
+    "firstline": "^2.0.2",
+    "line-reader": "^0.4.0"
+  }
 }
