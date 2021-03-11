@@ -1,0 +1,27 @@
+{
+  "name": "Zore Generator",
+  "version": "1.0.0",
+  "description": "Zore Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrystalPvPYT/zoregenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrystalPvPYT/zoregenerator/issues"
+  },
+  "homepage": "https://github.com/CrystalPvPYT/zoregenerator/blob/main/README.md",
+  "dependencies": {
+    "async": "^3.1.0",
+    "discord.js": "^11.5.1",
+    "express": "^4.17.1",
+    "firstline": "^2.0.2",
+    "line-reader": "^0.4.0"
+  }
+}
